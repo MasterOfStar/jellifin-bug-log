@@ -1,0 +1,582 @@
+[2020-03-24 16:05:24.647 +08:00] [INF] Jellyfin version: "10.4.3"
+[2020-03-24 16:05:24.726 +08:00] [INF] Arguments: ["C:\Program Files\Jellyfin\Server\jellyfin.dll", "--noautorunwebapp", "--datadir", "C:\Users\ak\AppData\Local\Jellyfin"]
+[2020-03-24 16:05:24.757 +08:00] [INF] Operating system: "Windows"
+[2020-03-24 16:05:24.760 +08:00] [INF] Architecture: X64
+[2020-03-24 16:05:24.768 +08:00] [INF] 64-Bit Process: True
+[2020-03-24 16:05:24.770 +08:00] [INF] User Interactive: True
+[2020-03-24 16:05:24.772 +08:00] [INF] Processor count: 4
+[2020-03-24 16:05:24.774 +08:00] [INF] Program data path: "C:\Users\ak\AppData\Local\Jellyfin"
+[2020-03-24 16:05:24.776 +08:00] [INF] Web resources path: "C:\Program Files\Jellyfin\Server\jellyfin-web"
+[2020-03-24 16:05:24.778 +08:00] [INF] Application directory: "C:\Program Files\Jellyfin\Server\"
+[2020-03-24 16:05:25.599 +08:00] [INF] Setting cache path to C:\Users\ak\AppData\Local\jellyfin\cache
+[2020-03-24 16:05:25.701 +08:00] [INF] Loading assemblies
+[2020-03-24 16:05:29.577 +08:00] [INF] Kestrel listening on all interfaces
+[2020-03-24 16:05:29.805 +08:00] [INF] Running startup tasks
+[2020-03-24 16:05:29.855 +08:00] [INF] Daily trigger for "Chapter image extraction" set to fire at 03/25/2020 02:00, which is 9:54:30.1442678 from now.
+[2020-03-24 16:05:30.238 +08:00] [INF] Found ffmpeg version "unknown"
+[2020-03-24 16:05:30.239 +08:00] [WRN] FFmpeg: Custom: Failed version check: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:05:30.545 +08:00] [INF] Available "decoders": ["h264", "h264_qsv", "h264_cuvid", "hevc", "hevc_qsv", "hevc_cuvid", "mpeg2video", "mpeg2_qsv", "vc1_qsv", "aac", "ac3", "mp3"]
+[2020-03-24 16:05:30.809 +08:00] [INF] Available "encoders": ["libx264", "h264_nvenc", "h264_qsv", "libx265", "hevc_nvenc", "hevc_qsv", "mpeg4", "msmpeg4", "libvpx", "libvpx-vp9", "aac", "ac3", "libmp3lame", "libopus", "libvorbis", "srt"]
+[2020-03-24 16:05:30.823 +08:00] [INF] FFmpeg: Custom: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:05:30.832 +08:00] [INF] ServerId: "8f977a8ad8a14a83b6afb1eac926f965"
+[2020-03-24 16:05:31.863 +08:00] [INF] Executed all pre-startup entry points in 0:00:00.993167
+[2020-03-24 16:05:31.865 +08:00] [INF] Core startup complete
+[2020-03-24 16:05:32.096 +08:00] [INF] Registering publisher for "urn:schemas-upnp-org:device:MediaServer:1" on "192.168.123.34"
+[2020-03-24 16:05:32.179 +08:00] [INF] Resetting user root folder path to "C:\Users\ak\AppData\Local\Jellyfin\root\default"
+[2020-03-24 16:05:32.733 +08:00] [INF] Resetting root folder path to "C:\Users\ak\AppData\Local\Jellyfin\root"
+[2020-03-24 16:05:32.797 +08:00] [INF] Watching directory D:\å½±è§†åº“\TV
+[2020-03-24 16:05:32.798 +08:00] [INF] Watching directory D:\å½±è§†åº“\MOVIE
+[2020-03-24 16:05:32.922 +08:00] [INF] "StartupTrigger" fired for task: "Check for plugin updates"
+[2020-03-24 16:05:32.929 +08:00] [INF] Queueing task "PluginUpdateTask"
+[2020-03-24 16:05:32.952 +08:00] [INF] Executing "Check for plugin updates"
+[2020-03-24 16:05:33.184 +08:00] [INF] Executed all post-startup entry points in 0:00:01.3170497
+[2020-03-24 16:05:35.778 +08:00] [INF] "Check for plugin updates" Completed after 0 minute(s) and 2 seconds
+[2020-03-24 16:05:35.961 +08:00] [INF] ExecuteQueuedTasks
+[2020-03-24 16:05:37.884 +08:00] [INF] No matching device profile found. The default will need to be used.
+DeviceDescription:
+FriendlyName:ä¹æ’­æŠ•å±M4
+Manufacturer:LEBO
+ManufacturerUrl:http://www.hpplay.com.cn
+ModelDescription:Lebo Media Render
+ModelName:HappyCast
+ModelNumber:
+ModelUrl:http://www.hpplay.com.cn
+SerialNumber:
+
+[2020-03-24 16:05:37.946 +08:00] [INF] DLNA Session created for "ä¹æ’­æŠ•å±M4" - "HappyCast"
+[2020-03-24 16:05:39.920 +08:00] [ERR] Error processing request: "Access token is invalid or expired."
+[2020-03-24 16:05:44.200 +08:00] [INF] No matching device profile found. The default will need to be used.
+DeviceDescription:
+FriendlyName:å®¢åŽ…çš„å¥‡å¼‚æžœ(100)
+Manufacturer:Microsoft Corporation
+ManufacturerUrl:http://www.microsoft.com
+ModelDescription:TVGUO Media Renderer
+ModelName:Windows Media Player
+ModelNumber:
+ModelUrl:http://go.microsoft.com/fwlink/?LinkId=105927
+SerialNumber:
+
+[2020-03-24 16:05:44.203 +08:00] [INF] DLNA Session created for "å®¢åŽ…çš„å¥‡å¼‚æžœ(100)" - "Windows Media Player"
+[2020-03-24 16:05:45.221 +08:00] [ERR] HTTP request failed with message: ""
+[2020-03-24 16:05:45.225 +08:00] [ERR] Error updating device info for "å®¢åŽ…çš„å¥‡å¼‚æžœ(100)"
+MediaBrowser.Model.Net.HttpException: Bad Request
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.EnsureSuccessStatusCode(HttpResponseMessage response, HttpRequestOptions options)
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.SendAsyncInternal(HttpRequestOptions options, HttpMethod httpMethod)
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.SendAsync(HttpRequestOptions options, HttpMethod httpMethod)
+   at Emby.Dlna.PlayTo.SsdpHttpClient.GetDataAsync(String url, CancellationToken cancellationToken)
+   at Emby.Dlna.PlayTo.Device.GetAVProtocolAsync(CancellationToken cancellationToken)
+   at Emby.Dlna.PlayTo.Device.TimerCallback(Object sender)
+[2020-03-24 16:05:49.822 +08:00] [ERR] Error processing request: "Access token is invalid or expired."
+[2020-03-24 16:05:59.823 +08:00] [ERR] Error processing request: "Access token is invalid or expired."
+[2020-03-24 16:06:09.812 +08:00] [ERR] Error processing request: "Access token is invalid or expired."
+[2020-03-24 16:06:19.815 +08:00] [ERR] Error processing request: "Access token is invalid or expired."
+[2020-03-24 16:06:29.815 +08:00] [ERR] Error processing request: "Access token is invalid or expired."
+[2020-03-24 16:06:29.930 +08:00] [INF] "IntervalTrigger" fired for task: "Scan media library"
+[2020-03-24 16:06:29.932 +08:00] [INF] Queueing task "RefreshMediaLibraryTask"
+[2020-03-24 16:06:29.935 +08:00] [INF] Executing "Scan media library"
+[2020-03-24 16:06:29.955 +08:00] [INF] Stopping directory watching for path "D:\å½±è§†åº“\TV"
+[2020-03-24 16:06:29.958 +08:00] [INF] Stopping directory watching for path "D:\å½±è§†åº“\MOVIE"
+[2020-03-24 16:06:29.973 +08:00] [INF] Validating media library
+[2020-03-24 16:06:31.055 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\06158a0a37114770b57fa7b9744fc650.png"
+[2020-03-24 16:06:32.535 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\06158a0a37114770b57fa7b9744fc650.png"
+[2020-03-24 16:06:39.824 +08:00] [ERR] Error processing request: "Access token is invalid or expired."
+[2020-03-24 16:06:42.942 +08:00] [INF] WS "http://192.168.123.34:8096/embywebsocket?api_key=573d8a937a5e427fbd3b1d698442eb48&deviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzcwLjAuMzUzOC4xMDIgU2FmYXJpLzUzNy4zNiBFZGdlLzE4LjE4MzYzfDE1Nzg3NDc4MTcyMTc1". UserAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363"
+[2020-03-24 16:06:42.993 +08:00] [WRN] Unable to determine session based on url: "http://192.168.123.34:8096/embywebsocket?api_key=573d8a937a5e427fbd3b1d698442eb48&deviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzcwLjAuMzUzOC4xMDIgU2FmYXJpLzUzNy4zNiBFZGdlLzE4LjE4MzYzfDE1Nzg3NDc4MTcyMTc1"
+[2020-03-24 16:06:48.296 +08:00] [INF] WS "http://192.168.123.34:8096/socket?api_key=2f9852ec3dbf45fbb3fdc40ec982b987&deviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzcwLjAuMzUzOC4xMDIgU2FmYXJpLzUzNy4zNiBFZGdlLzE4LjE4MzYzfDE1Nzg3NDc4MTcyMTc1". UserAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363"
+[2020-03-24 16:06:48.762 +08:00] [INF] Getting image size for item "CollectionFolder" "C:\Users\ak\AppData\Local\jellyfin\metadata\library\fc\fc8fa12ee6bc083abb484b1b0bbc420f\poster.png"
+[2020-03-24 16:06:48.762 +08:00] [INF] Getting image size for item "CollectionFolder" "C:\Users\ak\AppData\Local\jellyfin\metadata\library\fc\fc8fa12ee6bc083abb484b1b0bbc420f\poster.png"
+[2020-03-24 16:06:49.611 +08:00] [WRN] HTTP Response 200 to "192.168.123.38". Time (slow): 0:00:00.5233868. "http://192.168.123.34:8096/Items/1ab312ce58464d9e95105cb00d2ac196/Images/Backdrop/0?tag=11607de829772a9a5f8633d5c72a82a5&maxWidth=1920&quality=70"
+[2020-03-24 16:06:58.288 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\34220af79d1b4dec9660d9a69638e9cb.png"
+[2020-03-24 16:06:59.097 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\34220af79d1b4dec9660d9a69638e9cb.png"
+[2020-03-24 16:06:59.139 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\54a45c34f3bf4a72a785932c2790d20b.png"
+[2020-03-24 16:06:59.818 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\54a45c34f3bf4a72a785932c2790d20b.png"
+[2020-03-24 16:06:59.860 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\eb5161e717ce41c4bcf0ece005f50b1f.png"
+[2020-03-24 16:07:00.945 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\eb5161e717ce41c4bcf0ece005f50b1f.png"
+[2020-03-24 16:07:00.987 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\40d70f8c20254e31bb466fc2e305fa37.png"
+[2020-03-24 16:07:01.885 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\40d70f8c20254e31bb466fc2e305fa37.png"
+[2020-03-24 16:07:01.928 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\822b53b8498047a8934a8134d2623c13.png"
+[2020-03-24 16:07:02.699 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\822b53b8498047a8934a8134d2623c13.png"
+[2020-03-24 16:07:02.738 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\8655138dc3d34e5786eccaf46b104462.png"
+[2020-03-24 16:07:03.638 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\8655138dc3d34e5786eccaf46b104462.png"
+[2020-03-24 16:07:03.681 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\fcf6d09f44f64cd59d4faf3ac30ec13c.png"
+[2020-03-24 16:07:04.574 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\fcf6d09f44f64cd59d4faf3ac30ec13c.png"
+[2020-03-24 16:07:04.613 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\65f99e224dfa4509ba271cd98a75a66e.png"
+[2020-03-24 16:07:05.495 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\65f99e224dfa4509ba271cd98a75a66e.png"
+[2020-03-24 16:07:05.552 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\275137a6e4c7441ba36d7a4e72dabdd5.png"
+[2020-03-24 16:07:06.136 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\275137a6e4c7441ba36d7a4e72dabdd5.png"
+[2020-03-24 16:07:06.205 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\bdd8894059d243e99839e2b498fd9fef.png"
+[2020-03-24 16:07:07.032 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\bdd8894059d243e99839e2b498fd9fef.png"
+[2020-03-24 16:07:07.070 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\e363c15ea5394fd6982eba485556955d.png"
+[2020-03-24 16:07:07.741 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\e363c15ea5394fd6982eba485556955d.png"
+[2020-03-24 16:07:07.781 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\f765224cce0543bbba9ea64c169dfbe6.png"
+[2020-03-24 16:07:08.278 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\f765224cce0543bbba9ea64c169dfbe6.png"
+[2020-03-24 16:07:08.323 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\6e788fa68efb41ea8b3239d94b9944ed.png"
+[2020-03-24 16:07:09.217 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\6e788fa68efb41ea8b3239d94b9944ed.png"
+[2020-03-24 16:07:09.258 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\38c455d62c474d96834fd4173920e226.png"
+[2020-03-24 16:07:10.240 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\38c455d62c474d96834fd4173920e226.png"
+[2020-03-24 16:07:10.281 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\5502820ad22343cf9d59290be587e819.png"
+[2020-03-24 16:07:11.177 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\5502820ad22343cf9d59290be587e819.png"
+[2020-03-24 16:07:11.215 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\6ff83d42c88b4bd08872e5ebe78e10fc.png"
+[2020-03-24 16:07:11.987 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\6ff83d42c88b4bd08872e5ebe78e10fc.png"
+[2020-03-24 16:07:12.025 +08:00] [INF] Creating image collage and saving to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\7501dbd5d72c4afe86b4b6195d005791.png"
+[2020-03-24 16:07:12.656 +08:00] [INF] Completed creation of image collage and saved to "C:\Users\ak\AppData\Local\jellyfin\cache\temp\7501dbd5d72c4afe86b4b6195d005791.png"
+[2020-03-24 16:07:15.380 +08:00] [INF] "Scan media library" Completed after 0 minute(s) and 45 seconds
+[2020-03-24 16:07:15.381 +08:00] [INF] Watching directory D:\å½±è§†åº“\MOVIE
+[2020-03-24 16:07:15.381 +08:00] [INF] Watching directory D:\å½±è§†åº“\TV
+[2020-03-24 16:07:15.398 +08:00] [INF] ExecuteQueuedTasks
+[2020-03-24 16:09:11.371 +08:00] [INF] WS "http://192.168.123.34:8096/socket?api_key=2f9852ec3dbf45fbb3fdc40ec982b987&deviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzcwLjAuMzUzOC4xMDIgU2FmYXJpLzUzNy4zNiBFZGdlLzE4LjE4MzYzfDE1Nzg3NDc4MTcyMTc1". UserAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363"
+[2020-03-24 16:12:22.755 +08:00] [INF] Jellyfin version: "10.4.3"
+[2020-03-24 16:12:22.832 +08:00] [INF] Arguments: ["C:\Program Files\Jellyfin\Server\jellyfin.dll", "--noautorunwebapp", "--datadir", "C:\Users\ak\AppData\Local\Jellyfin"]
+[2020-03-24 16:12:22.861 +08:00] [INF] Operating system: "Windows"
+[2020-03-24 16:12:22.864 +08:00] [INF] Architecture: X64
+[2020-03-24 16:12:22.872 +08:00] [INF] 64-Bit Process: True
+[2020-03-24 16:12:22.873 +08:00] [INF] User Interactive: True
+[2020-03-24 16:12:22.875 +08:00] [INF] Processor count: 4
+[2020-03-24 16:12:22.877 +08:00] [INF] Program data path: "C:\Users\ak\AppData\Local\Jellyfin"
+[2020-03-24 16:12:22.879 +08:00] [INF] Web resources path: "C:\Program Files\Jellyfin\Server\jellyfin-web"
+[2020-03-24 16:12:22.881 +08:00] [INF] Application directory: "C:\Program Files\Jellyfin\Server\"
+[2020-03-24 16:12:23.693 +08:00] [INF] Setting cache path to C:\Users\ak\AppData\Local\jellyfin\cache
+[2020-03-24 16:12:23.791 +08:00] [INF] Loading assemblies
+[2020-03-24 16:12:27.694 +08:00] [INF] Kestrel listening on all interfaces
+[2020-03-24 16:12:27.918 +08:00] [INF] Running startup tasks
+[2020-03-24 16:12:27.961 +08:00] [INF] Daily trigger for "Chapter image extraction" set to fire at 03/25/2020 02:00, which is 9:47:32.0386538 from now.
+[2020-03-24 16:12:28.258 +08:00] [INF] Found ffmpeg version "unknown"
+[2020-03-24 16:12:28.260 +08:00] [WRN] FFmpeg: Custom: Failed version check: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:12:28.533 +08:00] [INF] Available "decoders": ["h264", "h264_qsv", "h264_cuvid", "hevc", "hevc_qsv", "hevc_cuvid", "mpeg2video", "mpeg2_qsv", "vc1_qsv", "aac", "ac3", "mp3"]
+[2020-03-24 16:12:28.781 +08:00] [INF] Available "encoders": ["libx264", "h264_nvenc", "h264_qsv", "libx265", "hevc_nvenc", "hevc_qsv", "mpeg4", "msmpeg4", "libvpx", "libvpx-vp9", "aac", "ac3", "libmp3lame", "libopus", "libvorbis", "srt"]
+[2020-03-24 16:12:28.793 +08:00] [INF] FFmpeg: Custom: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:12:28.801 +08:00] [INF] ServerId: "8f977a8ad8a14a83b6afb1eac926f965"
+[2020-03-24 16:12:29.969 +08:00] [INF] Executed all pre-startup entry points in 0:00:01.125796
+[2020-03-24 16:12:29.970 +08:00] [INF] Core startup complete
+[2020-03-24 16:12:30.155 +08:00] [INF] Registering publisher for "urn:schemas-upnp-org:device:MediaServer:1" on "192.168.123.34"
+[2020-03-24 16:12:30.271 +08:00] [INF] Resetting user root folder path to "C:\Users\ak\AppData\Local\Jellyfin\root\default"
+[2020-03-24 16:12:30.849 +08:00] [INF] Watching directory D:\å½±è§†åº“\MOVIE
+[2020-03-24 16:12:30.851 +08:00] [INF] Watching directory D:\å½±è§†åº“\TV
+[2020-03-24 16:12:31.025 +08:00] [INF] "StartupTrigger" fired for task: "Check for plugin updates"
+[2020-03-24 16:12:31.032 +08:00] [INF] Queueing task "PluginUpdateTask"
+[2020-03-24 16:12:31.064 +08:00] [INF] Executing "Check for plugin updates"
+[2020-03-24 16:12:31.303 +08:00] [INF] Executed all post-startup entry points in 0:00:01.3314286
+[2020-03-24 16:12:31.387 +08:00] [WRN] HTTP Response 200 to "192.168.123.38". Time (slow): 0:00:00.5486847. "http://192.168.123.34:8096/System/Info"
+[2020-03-24 16:12:31.387 +08:00] [WRN] HTTP Response 200 to "192.168.123.38". Time (slow): 0:00:00.5548526. "http://192.168.123.34:8096/System/Configuration"
+[2020-03-24 16:12:31.524 +08:00] [WRN] HTTP Response 200 to "192.168.123.38". Time (slow): 0:00:00.6857969. "http://192.168.123.34:8096/System/Configuration/metadata"
+[2020-03-24 16:12:33.746 +08:00] [INF] "Check for plugin updates" Completed after 0 minute(s) and 2 seconds
+[2020-03-24 16:12:33.785 +08:00] [INF] ExecuteQueuedTasks
+[2020-03-24 16:12:36.000 +08:00] [INF] No matching device profile found. The default will need to be used.
+DeviceDescription:
+FriendlyName:ä¹æ’­æŠ•å±M4
+Manufacturer:LEBO
+ManufacturerUrl:http://www.hpplay.com.cn
+ModelDescription:Lebo Media Render
+ModelName:HappyCast
+ModelNumber:
+ModelUrl:http://www.hpplay.com.cn
+SerialNumber:
+
+[2020-03-24 16:12:36.012 +08:00] [INF] DLNA Session created for "ä¹æ’­æŠ•å±M4" - "HappyCast"
+[2020-03-24 16:12:42.846 +08:00] [INF] No matching device profile found. The default will need to be used.
+DeviceDescription:
+FriendlyName:å®¢åŽ…çš„å¥‡å¼‚æžœ(100)
+Manufacturer:Microsoft Corporation
+ManufacturerUrl:http://www.microsoft.com
+ModelDescription:TVGUO Media Renderer
+ModelName:Windows Media Player
+ModelNumber:
+ModelUrl:http://go.microsoft.com/fwlink/?LinkId=105927
+SerialNumber:
+
+[2020-03-24 16:12:42.851 +08:00] [INF] DLNA Session created for "å®¢åŽ…çš„å¥‡å¼‚æžœ(100)" - "Windows Media Player"
+[2020-03-24 16:12:43.868 +08:00] [ERR] HTTP request failed with message: ""
+[2020-03-24 16:12:43.873 +08:00] [ERR] Error updating device info for "å®¢åŽ…çš„å¥‡å¼‚æžœ(100)"
+MediaBrowser.Model.Net.HttpException: Bad Request
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.EnsureSuccessStatusCode(HttpResponseMessage response, HttpRequestOptions options)
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.SendAsyncInternal(HttpRequestOptions options, HttpMethod httpMethod)
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.SendAsync(HttpRequestOptions options, HttpMethod httpMethod)
+   at Emby.Dlna.PlayTo.SsdpHttpClient.GetDataAsync(String url, CancellationToken cancellationToken)
+   at Emby.Dlna.PlayTo.Device.GetAVProtocolAsync(CancellationToken cancellationToken)
+   at Emby.Dlna.PlayTo.Device.TimerCallback(Object sender)
+[2020-03-24 16:18:35.899 +08:00] [INF] Jellyfin version: "10.5.2"
+[2020-03-24 16:18:35.958 +08:00] [INF] Arguments: ["C:\Program Files\Jellyfin\Server\jellyfin.dll", "--noautorunwebapp", "--datadir", "C:\Users\ak\AppData\Local\Jellyfin"]
+[2020-03-24 16:18:35.975 +08:00] [INF] Operating system: "Windows"
+[2020-03-24 16:18:35.978 +08:00] [INF] Architecture: X64
+[2020-03-24 16:18:35.982 +08:00] [INF] 64-Bit Process: True
+[2020-03-24 16:18:35.984 +08:00] [INF] User Interactive: True
+[2020-03-24 16:18:35.986 +08:00] [INF] Processor count: 4
+[2020-03-24 16:18:35.988 +08:00] [INF] Program data path: "C:\Users\ak\AppData\Local\Jellyfin"
+[2020-03-24 16:18:35.990 +08:00] [INF] Web resources path: "C:\Program Files\Jellyfin\Server\jellyfin-web"
+[2020-03-24 16:18:35.992 +08:00] [INF] Application directory: "C:\Program Files\Jellyfin\Server\"
+[2020-03-24 16:18:36.966 +08:00] [INF] Setting cache path: "C:\Users\ak\AppData\Local\jellyfin\cache"
+[2020-03-24 16:18:37.063 +08:00] [INF] Loading assemblies
+[2020-03-24 16:18:40.609 +08:00] [INF] Kestrel listening on all interfaces
+[2020-03-24 16:18:41.023 +08:00] [INF] Running startup tasks
+[2020-03-24 16:18:41.056 +08:00] [INF] Daily trigger for "Extract Chapter Images" set to fire at 03/25/2020 02:00, which is 9:41:18.944372 from now.
+[2020-03-24 16:18:41.520 +08:00] [INF] Found ffmpeg version "unknown"
+[2020-03-24 16:18:41.523 +08:00] [WRN] FFmpeg: Custom: Failed version check: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:18:41.807 +08:00] [INF] Available "decoders": ["h264", "h264_qsv", "h264_cuvid", "hevc", "hevc_qsv", "hevc_cuvid", "mpeg2video", "mpeg2_qsv", "vc1_qsv", "aac", "ac3", "mp3"]
+[2020-03-24 16:18:42.066 +08:00] [INF] Available "encoders": ["libx264", "h264_amf", "h264_nvenc", "h264_qsv", "libx265", "hevc_amf", "hevc_nvenc", "hevc_qsv", "mpeg4", "msmpeg4", "libvpx", "libvpx-vp9", "aac", "ac3", "libmp3lame", "libopus", "libvorbis", "srt"]
+[2020-03-24 16:18:42.079 +08:00] [INF] FFmpeg: Custom: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:18:42.084 +08:00] [INF] ServerId: "8f977a8ad8a14a83b6afb1eac926f965"
+[2020-03-24 16:18:43.051 +08:00] [INF] Executed all pre-startup entry points in 0:00:00.9377342
+[2020-03-24 16:18:43.053 +08:00] [INF] Core startup complete
+[2020-03-24 16:18:43.193 +08:00] [INF] Registering publisher for "urn:schemas-upnp-org:device:MediaServer:1" on "192.168.123.34"
+[2020-03-24 16:18:43.282 +08:00] [INF] Resetting user root folder path to "C:\Users\ak\AppData\Local\Jellyfin\root\default"
+[2020-03-24 16:18:43.760 +08:00] [INF] Watching directory D:\å½±è§†åº“\MOVIE
+[2020-03-24 16:18:43.760 +08:00] [INF] Watching directory D:\å½±è§†åº“\TV
+[2020-03-24 16:18:44.184 +08:00] [INF] "StartupTrigger" fired for task: "Update Plugins"
+[2020-03-24 16:18:44.189 +08:00] [INF] Queueing task "PluginUpdateTask"
+[2020-03-24 16:18:44.200 +08:00] [INF] Executing "Update Plugins"
+[2020-03-24 16:18:44.359 +08:00] [INF] WS "http://192.168.123.34:8096/socket?api_key=2f9852ec3dbf45fbb3fdc40ec982b987&deviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzcwLjAuMzUzOC4xMDIgU2FmYXJpLzUzNy4zNiBFZGdlLzE4LjE4MzYzfDE1Nzg3NDc4MTcyMTc1". UserAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363"
+[2020-03-24 16:18:44.574 +08:00] [INF] Executed all post-startup entry points in 0:00:01.5194562
+[2020-03-24 16:18:44.576 +08:00] [INF] Startup complete 0:00:09.4348289
+[2020-03-24 16:18:46.443 +08:00] [INF] WS "http://192.168.123.34:8096/socket?api_key=2f9852ec3dbf45fbb3fdc40ec982b987&deviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzcwLjAuMzUzOC4xMDIgU2FmYXJpLzUzNy4zNiBFZGdlLzE4LjE4MzYzfDE1Nzg3NDc4MTcyMTc1". UserAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363"
+[2020-03-24 16:18:46.494 +08:00] [INF] "Update Plugins" Completed after 0 minute(s) and 2 seconds
+[2020-03-24 16:18:46.565 +08:00] [INF] ExecuteQueuedTasks
+[2020-03-24 16:18:47.755 +08:00] [WRN] HTTP Response 200 to "192.168.123.38". Time (slow): 0:00:00.5002992. "http://192.168.123.34:8096/Items/fc8fa12ee6bc083abb484b1b0bbc420f/Images/Primary?maxHeight=710&maxWidth=710&tag=17ade60010d30ba4432f049a019969b7&quality=90"
+[2020-03-24 16:18:48.759 +08:00] [INF] No matching device profile found. The default will need to be used.
+DeviceDescription:
+FriendlyName:ä¹æ’­æŠ•å±M4
+Manufacturer:LEBO
+ManufacturerUrl:http://www.hpplay.com.cn
+ModelDescription:Lebo Media Render
+ModelName:HappyCast
+ModelNumber:
+ModelUrl:http://www.hpplay.com.cn
+SerialNumber:
+
+[2020-03-24 16:18:48.776 +08:00] [INF] DLNA Session created for "ä¹æ’­æŠ•å±M4" - "HappyCast"
+[2020-03-24 16:22:20.001 +08:00] [INF] Jellyfin version: "10.5.2"
+[2020-03-24 16:22:20.058 +08:00] [INF] Arguments: ["C:\Program Files\Jellyfin\Server\jellyfin.dll", "--noautorunwebapp", "--datadir", "C:\Users\ak\AppData\Local\Jellyfin"]
+[2020-03-24 16:22:20.075 +08:00] [INF] Operating system: "Windows"
+[2020-03-24 16:22:20.078 +08:00] [INF] Architecture: X64
+[2020-03-24 16:22:20.081 +08:00] [INF] 64-Bit Process: True
+[2020-03-24 16:22:20.083 +08:00] [INF] User Interactive: True
+[2020-03-24 16:22:20.084 +08:00] [INF] Processor count: 4
+[2020-03-24 16:22:20.086 +08:00] [INF] Program data path: "C:\Users\ak\AppData\Local\Jellyfin"
+[2020-03-24 16:22:20.088 +08:00] [INF] Web resources path: "C:\Program Files\Jellyfin\Server\jellyfin-web"
+[2020-03-24 16:22:20.090 +08:00] [INF] Application directory: "C:\Program Files\Jellyfin\Server\"
+[2020-03-24 16:22:21.252 +08:00] [INF] Setting cache path: "C:\Users\ak\AppData\Local\jellyfin\cache"
+[2020-03-24 16:22:21.406 +08:00] [INF] Loading assemblies
+[2020-03-24 16:22:25.075 +08:00] [INF] Kestrel listening on all interfaces
+[2020-03-24 16:22:25.534 +08:00] [INF] Running startup tasks
+[2020-03-24 16:22:25.623 +08:00] [INF] Daily trigger for "Extract Chapter Images" set to fire at 03/25/2020 02:00, which is 9:37:34.3768076 from now.
+[2020-03-24 16:22:26.228 +08:00] [INF] Found ffmpeg version "unknown"
+[2020-03-24 16:22:26.241 +08:00] [WRN] FFmpeg: Custom: Failed version check: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:22:26.705 +08:00] [INF] Available "decoders": ["h264", "h264_qsv", "h264_cuvid", "hevc", "hevc_qsv", "hevc_cuvid", "mpeg2video", "mpeg2_qsv", "vc1_qsv", "aac", "ac3", "mp3"]
+[2020-03-24 16:22:26.962 +08:00] [INF] Available "encoders": ["libx264", "h264_amf", "h264_nvenc", "h264_qsv", "libx265", "hevc_amf", "hevc_nvenc", "hevc_qsv", "mpeg4", "msmpeg4", "libvpx", "libvpx-vp9", "aac", "ac3", "libmp3lame", "libopus", "libvorbis", "srt"]
+[2020-03-24 16:22:26.981 +08:00] [INF] FFmpeg: Custom: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:22:26.986 +08:00] [INF] ServerId: "8f977a8ad8a14a83b6afb1eac926f965"
+[2020-03-24 16:22:27.922 +08:00] [INF] Executed all pre-startup entry points in 0:00:00.907266
+[2020-03-24 16:22:27.923 +08:00] [INF] Core startup complete
+[2020-03-24 16:22:28.019 +08:00] [INF] Registering publisher for "urn:schemas-upnp-org:device:MediaServer:1" on "192.168.123.34"
+[2020-03-24 16:22:28.130 +08:00] [INF] Resetting user root folder path to "C:\Users\ak\AppData\Local\Jellyfin\root\default"
+[2020-03-24 16:22:28.611 +08:00] [INF] Watching directory D:\å½±è§†åº“\TV
+[2020-03-24 16:22:28.611 +08:00] [INF] Watching directory D:\å½±è§†åº“\MOVIE
+[2020-03-24 16:22:28.763 +08:00] [INF] "StartupTrigger" fired for task: "Update Plugins"
+[2020-03-24 16:22:28.768 +08:00] [INF] Queueing task "PluginUpdateTask"
+[2020-03-24 16:22:28.782 +08:00] [INF] Executing "Update Plugins"
+[2020-03-24 16:22:29.654 +08:00] [INF] Executed all post-startup entry points in 0:00:01.7291484
+[2020-03-24 16:22:29.658 +08:00] [INF] Startup complete 0:00:10.5351737
+[2020-03-24 16:22:31.410 +08:00] [INF] "Update Plugins" Completed after 0 minute(s) and 2 seconds
+[2020-03-24 16:22:31.449 +08:00] [INF] ExecuteQueuedTasks
+[2020-03-24 16:22:33.541 +08:00] [INF] No matching device profile found. The default will need to be used.
+DeviceDescription:
+FriendlyName:ä¹æ’­æŠ•å±M4
+Manufacturer:LEBO
+ManufacturerUrl:http://www.hpplay.com.cn
+ModelDescription:Lebo Media Render
+ModelName:HappyCast
+ModelNumber:
+ModelUrl:http://www.hpplay.com.cn
+SerialNumber:
+
+[2020-03-24 16:22:33.594 +08:00] [INF] DLNA Session created for "ä¹æ’­æŠ•å±M4" - "HappyCast"
+[2020-03-24 16:22:39.671 +08:00] [INF] WS "http://192.168.123.34:8096/socket?api_key=2f9852ec3dbf45fbb3fdc40ec982b987&deviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzcwLjAuMzUzOC4xMDIgU2FmYXJpLzUzNy4zNiBFZGdlLzE4LjE4MzYzfDE1Nzg3NDc4MTcyMTc1". UserAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363"
+[2020-03-24 16:22:44.351 +08:00] [INF] No matching device profile found. The default will need to be used.
+DeviceDescription:
+FriendlyName:å®¢åŽ…çš„å¥‡å¼‚æžœ(100)
+Manufacturer:Microsoft Corporation
+ManufacturerUrl:http://www.microsoft.com
+ModelDescription:TVGUO Media Renderer
+ModelName:Windows Media Player
+ModelNumber:
+ModelUrl:http://go.microsoft.com/fwlink/?LinkId=105927
+SerialNumber:
+
+[2020-03-24 16:22:44.356 +08:00] [INF] DLNA Session created for "å®¢åŽ…çš„å¥‡å¼‚æžœ(100)" - "Windows Media Player"
+[2020-03-24 16:22:45.367 +08:00] [ERR] HTTP request failed with message: ""
+[2020-03-24 16:22:45.373 +08:00] [ERR] Error updating device info for "å®¢åŽ…çš„å¥‡å¼‚æžœ(100)"
+MediaBrowser.Model.Net.HttpException: Bad Request
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.EnsureSuccessStatusCode(HttpResponseMessage response, HttpRequestOptions options)
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.SendAsyncInternal(HttpRequestOptions options, HttpMethod httpMethod)
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.SendAsync(HttpRequestOptions options, HttpMethod httpMethod)
+   at Emby.Dlna.PlayTo.SsdpHttpClient.GetDataAsync(String url, CancellationToken cancellationToken)
+   at Emby.Dlna.PlayTo.Device.GetAVProtocolAsync(CancellationToken cancellationToken)
+   at Emby.Dlna.PlayTo.Device.TimerCallback(Object sender)
+[2020-03-24 16:23:02.811 +08:00] [WRN] HTTP Response 200 to "192.168.123.38". Time (slow): 0:00:18.8971457. "http://192.168.123.34:8096/Persons?SortBy=SeriesName%2CSortName&SortOrder=Ascending&Filters=IsFavorite&Recursive=true&Fields=PrimaryImageAspectRatio%2CBasicSyncInfo&CollapseBoxSetItems=false&ExcludeLocationTypes=Virtual&EnableTotalRecordCount=false&Limit=20&userId=074203e108bf4ddab20da2f1c3ff7fcb"
+[2020-03-24 16:23:30.714 +08:00] [INF] Executing "Scan Media Library"
+[2020-03-24 16:23:30.738 +08:00] [INF] Stopping directory watching for path "D:\å½±è§†åº“\MOVIE"
+[2020-03-24 16:23:30.740 +08:00] [INF] Stopping directory watching for path "D:\å½±è§†åº“\TV"
+[2020-03-24 16:23:30.748 +08:00] [INF] Validating media library
+[2020-03-24 16:23:40.233 +08:00] [INF] "Scan Media Library" Completed after 0 minute(s) and 9 seconds
+[2020-03-24 16:23:40.233 +08:00] [INF] Watching directory D:\å½±è§†åº“\TV
+[2020-03-24 16:23:40.233 +08:00] [INF] Watching directory D:\å½±è§†åº“\MOVIE
+[2020-03-24 16:23:40.243 +08:00] [INF] ExecuteQueuedTasks
+[2020-03-24 16:27:55.552 +08:00] [WRN] HTTP Response 200 to "192.168.123.38". Time (slow): 0:00:00.7983264. "http://192.168.123.34:8096/Items/f9650eeaf43e26295241b232e0ce138f/Images/Backdrop/0?tag=d390115eb923e835b53024e96c813d3e&maxWidth=1920&quality=70"
+[2020-03-24 16:28:43.260 +08:00] [WRN] HTTP Response 200 to "192.168.123.38". Time (slow): 0:00:00.5012898. "http://192.168.123.34:8096/Items/c068673fd845556a4f97d64c94b9bd3e/Images/Backdrop/0?tag=393d24b00b68da05bb842fa0b66f2ea1&maxWidth=1920&quality=70"
+[2020-03-24 16:29:37.757 +08:00] [INF] Jellyfin version: "10.5.2"
+[2020-03-24 16:29:37.815 +08:00] [INF] Arguments: ["C:\Program Files\Jellyfin\Server\jellyfin.dll", "--noautorunwebapp", "--datadir", "C:\Users\ak\AppData\Local\Jellyfin"]
+[2020-03-24 16:29:37.832 +08:00] [INF] Operating system: "Windows"
+[2020-03-24 16:29:37.834 +08:00] [INF] Architecture: X64
+[2020-03-24 16:29:37.838 +08:00] [INF] 64-Bit Process: True
+[2020-03-24 16:29:37.840 +08:00] [INF] User Interactive: True
+[2020-03-24 16:29:37.842 +08:00] [INF] Processor count: 4
+[2020-03-24 16:29:37.843 +08:00] [INF] Program data path: "C:\Users\ak\AppData\Local\Jellyfin"
+[2020-03-24 16:29:37.845 +08:00] [INF] Web resources path: "C:\Program Files\Jellyfin\Server\jellyfin-web"
+[2020-03-24 16:29:37.847 +08:00] [INF] Application directory: "C:\Program Files\Jellyfin\Server\"
+[2020-03-24 16:29:38.745 +08:00] [INF] Setting cache path: "C:\Users\ak\AppData\Local\jellyfin\cache"
+[2020-03-24 16:29:38.830 +08:00] [INF] Loading assemblies
+[2020-03-24 16:29:42.080 +08:00] [INF] Kestrel listening on all interfaces
+[2020-03-24 16:29:42.425 +08:00] [INF] Running startup tasks
+[2020-03-24 16:29:42.456 +08:00] [INF] Daily trigger for "Extract Chapter Images" set to fire at 03/25/2020 02:00, which is 9:30:17.5434429 from now.
+[2020-03-24 16:29:42.872 +08:00] [INF] Found ffmpeg version "unknown"
+[2020-03-24 16:29:42.874 +08:00] [WRN] FFmpeg: Custom: Failed version check: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:29:43.142 +08:00] [INF] Available "decoders": ["h264", "h264_qsv", "h264_cuvid", "hevc", "hevc_qsv", "hevc_cuvid", "mpeg2video", "mpeg2_qsv", "vc1_qsv", "aac", "ac3", "mp3"]
+[2020-03-24 16:29:43.390 +08:00] [INF] Available "encoders": ["libx264", "h264_amf", "h264_nvenc", "h264_qsv", "libx265", "hevc_amf", "hevc_nvenc", "hevc_qsv", "mpeg4", "msmpeg4", "libvpx", "libvpx-vp9", "aac", "ac3", "libmp3lame", "libopus", "libvorbis", "srt"]
+[2020-03-24 16:29:43.403 +08:00] [INF] FFmpeg: Custom: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:29:43.407 +08:00] [INF] ServerId: "8f977a8ad8a14a83b6afb1eac926f965"
+[2020-03-24 16:29:44.294 +08:00] [INF] Executed all pre-startup entry points in 0:00:00.8587553
+[2020-03-24 16:29:44.296 +08:00] [INF] Core startup complete
+[2020-03-24 16:29:44.392 +08:00] [INF] Registering publisher for "urn:schemas-upnp-org:device:MediaServer:1" on "192.168.123.34"
+[2020-03-24 16:29:44.503 +08:00] [INF] Resetting user root folder path to "C:\Users\ak\AppData\Local\Jellyfin\root\default"
+[2020-03-24 16:29:44.970 +08:00] [INF] Watching directory D:\å½±è§†åº“\MOVIE
+[2020-03-24 16:29:44.970 +08:00] [INF] Watching directory D:\å½±è§†åº“\TV
+[2020-03-24 16:29:45.584 +08:00] [INF] "StartupTrigger" fired for task: "Update Plugins"
+[2020-03-24 16:29:45.587 +08:00] [INF] Queueing task "PluginUpdateTask"
+[2020-03-24 16:29:45.598 +08:00] [INF] Executing "Update Plugins"
+[2020-03-24 16:29:45.734 +08:00] [INF] Executed all post-startup entry points in 0:00:01.436171
+[2020-03-24 16:29:45.735 +08:00] [INF] Startup complete 0:00:08.575783
+[2020-03-24 16:29:47.817 +08:00] [INF] "Update Plugins" Completed after 0 minute(s) and 2 seconds
+[2020-03-24 16:29:47.857 +08:00] [INF] ExecuteQueuedTasks
+[2020-03-24 16:29:49.329 +08:00] [WRN] HTTP Response 200 to "192.168.123.38". Time (slow): 0:00:02.1275426. "http://192.168.123.34:8096/Persons?SortBy=SeriesName%2CSortName&SortOrder=Ascending&Filters=IsFavorite&Recursive=true&Fields=PrimaryImageAspectRatio%2CBasicSyncInfo&CollapseBoxSetItems=false&ExcludeLocationTypes=Virtual&EnableTotalRecordCount=false&Limit=20&userId=074203e108bf4ddab20da2f1c3ff7fcb"
+[2020-03-24 16:29:49.926 +08:00] [INF] No matching device profile found. The default will need to be used.
+DeviceDescription:
+FriendlyName:ä¹æ’­æŠ•å±M4
+Manufacturer:LEBO
+ManufacturerUrl:http://www.hpplay.com.cn
+ModelDescription:Lebo Media Render
+ModelName:HappyCast
+ModelNumber:
+ModelUrl:http://www.hpplay.com.cn
+SerialNumber:
+
+[2020-03-24 16:29:49.937 +08:00] [INF] DLNA Session created for "ä¹æ’­æŠ•å±M4" - "HappyCast"
+[2020-03-24 16:29:58.072 +08:00] [INF] No matching device profile found. The default will need to be used.
+DeviceDescription:
+FriendlyName:å®¢åŽ…çš„å¥‡å¼‚æžœ(100)
+Manufacturer:Microsoft Corporation
+ManufacturerUrl:http://www.microsoft.com
+ModelDescription:TVGUO Media Renderer
+ModelName:Windows Media Player
+ModelNumber:
+ModelUrl:http://go.microsoft.com/fwlink/?LinkId=105927
+SerialNumber:
+
+[2020-03-24 16:29:58.076 +08:00] [INF] DLNA Session created for "å®¢åŽ…çš„å¥‡å¼‚æžœ(100)" - "Windows Media Player"
+[2020-03-24 16:29:59.081 +08:00] [ERR] HTTP request failed with message: ""
+[2020-03-24 16:29:59.086 +08:00] [ERR] Error updating device info for "å®¢åŽ…çš„å¥‡å¼‚æžœ(100)"
+MediaBrowser.Model.Net.HttpException: Bad Request
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.EnsureSuccessStatusCode(HttpResponseMessage response, HttpRequestOptions options)
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.SendAsyncInternal(HttpRequestOptions options, HttpMethod httpMethod)
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.SendAsync(HttpRequestOptions options, HttpMethod httpMethod)
+   at Emby.Dlna.PlayTo.SsdpHttpClient.GetDataAsync(String url, CancellationToken cancellationToken)
+   at Emby.Dlna.PlayTo.Device.GetAVProtocolAsync(CancellationToken cancellationToken)
+   at Emby.Dlna.PlayTo.Device.TimerCallback(Object sender)
+[2020-03-24 16:34:15.620 +08:00] [INF] Jellyfin version: "10.5.2"
+[2020-03-24 16:34:15.679 +08:00] [INF] Arguments: ["C:\Program Files\Jellyfin\Server\jellyfin.dll", "--noautorunwebapp", "--datadir", "C:\Users\ak\AppData\Local\Jellyfin"]
+[2020-03-24 16:34:15.696 +08:00] [INF] Operating system: "Windows"
+[2020-03-24 16:34:15.699 +08:00] [INF] Architecture: X64
+[2020-03-24 16:34:15.702 +08:00] [INF] 64-Bit Process: True
+[2020-03-24 16:34:15.704 +08:00] [INF] User Interactive: True
+[2020-03-24 16:34:15.706 +08:00] [INF] Processor count: 4
+[2020-03-24 16:34:15.707 +08:00] [INF] Program data path: "C:\Users\ak\AppData\Local\Jellyfin"
+[2020-03-24 16:34:15.709 +08:00] [INF] Web resources path: "C:\Program Files\Jellyfin\Server\jellyfin-web"
+[2020-03-24 16:34:15.711 +08:00] [INF] Application directory: "C:\Program Files\Jellyfin\Server\"
+[2020-03-24 16:34:16.608 +08:00] [INF] Setting cache path: "C:\Users\ak\AppData\Local\jellyfin\cache"
+[2020-03-24 16:34:16.692 +08:00] [INF] Loading assemblies
+[2020-03-24 16:34:19.962 +08:00] [INF] Kestrel listening on all interfaces
+[2020-03-24 16:34:20.306 +08:00] [INF] Running startup tasks
+[2020-03-24 16:34:20.340 +08:00] [INF] Daily trigger for "Extract Chapter Images" set to fire at 03/25/2020 02:00, which is 9:25:39.6599537 from now.
+[2020-03-24 16:34:20.724 +08:00] [INF] Found ffmpeg version "unknown"
+[2020-03-24 16:34:20.726 +08:00] [WRN] FFmpeg: Custom: Failed version check: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:34:21.005 +08:00] [INF] Available "decoders": ["h264", "h264_qsv", "h264_cuvid", "hevc", "hevc_qsv", "hevc_cuvid", "mpeg2video", "mpeg2_qsv", "vc1_qsv", "aac", "ac3", "mp3"]
+[2020-03-24 16:34:21.274 +08:00] [INF] Available "encoders": ["libx264", "h264_amf", "h264_nvenc", "h264_qsv", "libx265", "hevc_amf", "hevc_nvenc", "hevc_qsv", "mpeg4", "msmpeg4", "libvpx", "libvpx-vp9", "aac", "ac3", "libmp3lame", "libopus", "libvorbis", "srt"]
+[2020-03-24 16:34:21.286 +08:00] [INF] FFmpeg: Custom: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:34:21.291 +08:00] [INF] ServerId: "8f977a8ad8a14a83b6afb1eac926f965"
+[2020-03-24 16:34:22.196 +08:00] [INF] Executed all pre-startup entry points in 0:00:00.8796243
+[2020-03-24 16:34:22.199 +08:00] [INF] Core startup complete
+[2020-03-24 16:34:22.293 +08:00] [INF] Registering publisher for "urn:schemas-upnp-org:device:MediaServer:1" on "192.168.123.34"
+[2020-03-24 16:34:22.407 +08:00] [INF] Resetting user root folder path to "C:\Users\ak\AppData\Local\Jellyfin\root\default"
+[2020-03-24 16:34:22.857 +08:00] [INF] Watching directory D:\å½±è§†åº“\TV
+[2020-03-24 16:34:22.857 +08:00] [INF] Watching directory D:\å½±è§†åº“\MOVIE
+[2020-03-24 16:34:23.452 +08:00] [INF] "StartupTrigger" fired for task: "Update Plugins"
+[2020-03-24 16:34:23.457 +08:00] [INF] Queueing task "PluginUpdateTask"
+[2020-03-24 16:34:23.467 +08:00] [INF] Executing "Update Plugins"
+[2020-03-24 16:34:23.592 +08:00] [INF] Executed all post-startup entry points in 0:00:01.3915027
+[2020-03-24 16:34:23.593 +08:00] [INF] Startup complete 0:00:08.5912355
+[2020-03-24 16:34:26.475 +08:00] [INF] WS "http://192.168.123.34:8096/socket?api_key=2f9852ec3dbf45fbb3fdc40ec982b987&deviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzcwLjAuMzUzOC4xMDIgU2FmYXJpLzUzNy4zNiBFZGdlLzE4LjE4MzYzfDE1Nzg3NDc4MTcyMTc1". UserAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363"
+[2020-03-24 16:34:26.621 +08:00] [INF] "Update Plugins" Completed after 0 minute(s) and 3 seconds
+[2020-03-24 16:34:26.670 +08:00] [INF] ExecuteQueuedTasks
+[2020-03-24 16:34:27.795 +08:00] [INF] No matching device profile found. The default will need to be used.
+DeviceDescription:
+FriendlyName:ä¹æ’­æŠ•å±M4
+Manufacturer:LEBO
+ManufacturerUrl:http://www.hpplay.com.cn
+ModelDescription:Lebo Media Render
+ModelName:HappyCast
+ModelNumber:
+ModelUrl:http://www.hpplay.com.cn
+SerialNumber:
+
+[2020-03-24 16:34:27.809 +08:00] [INF] DLNA Session created for "ä¹æ’­æŠ•å±M4" - "HappyCast"
+[2020-03-24 16:35:21.217 +08:00] [INF] WS "http://192.168.123.34:8096/socket?api_key=2f9852ec3dbf45fbb3fdc40ec982b987&deviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzcwLjAuMzUzOC4xMDIgU2FmYXJpLzUzNy4zNiBFZGdlLzE4LjE4MzYzfDE1Nzg3NDc4MTcyMTc1". UserAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363"
+[2020-03-24 16:37:44.298 +08:00] [INF] Jellyfin version: "10.5.2"
+[2020-03-24 16:37:44.355 +08:00] [INF] Arguments: ["C:\Program Files\Jellyfin\Server\jellyfin.dll", "--noautorunwebapp", "--datadir", "C:\Users\ak\AppData\Local\Jellyfin"]
+[2020-03-24 16:37:44.372 +08:00] [INF] Operating system: "Windows"
+[2020-03-24 16:37:44.375 +08:00] [INF] Architecture: X64
+[2020-03-24 16:37:44.379 +08:00] [INF] 64-Bit Process: True
+[2020-03-24 16:37:44.381 +08:00] [INF] User Interactive: True
+[2020-03-24 16:37:44.382 +08:00] [INF] Processor count: 4
+[2020-03-24 16:37:44.384 +08:00] [INF] Program data path: "C:\Users\ak\AppData\Local\Jellyfin"
+[2020-03-24 16:37:44.386 +08:00] [INF] Web resources path: "C:\Program Files\Jellyfin\Server\jellyfin-web"
+[2020-03-24 16:37:44.387 +08:00] [INF] Application directory: "C:\Program Files\Jellyfin\Server\"
+[2020-03-24 16:37:45.403 +08:00] [INF] Setting cache path: "C:\Users\ak\AppData\Local\jellyfin\cache"
+[2020-03-24 16:37:45.506 +08:00] [INF] Loading assemblies
+[2020-03-24 16:37:49.068 +08:00] [INF] Kestrel listening on all interfaces
+[2020-03-24 16:37:49.416 +08:00] [INF] Running startup tasks
+[2020-03-24 16:37:49.449 +08:00] [INF] Daily trigger for "Extract Chapter Images" set to fire at 03/25/2020 02:00, which is 9:22:10.5511577 from now.
+[2020-03-24 16:37:49.892 +08:00] [INF] Found ffmpeg version "unknown"
+[2020-03-24 16:37:49.894 +08:00] [WRN] FFmpeg: Custom: Failed version check: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:37:50.001 +08:00] [INF] WS "http://192.168.123.34:8096/socket?api_key=2f9852ec3dbf45fbb3fdc40ec982b987&deviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzcwLjAuMzUzOC4xMDIgU2FmYXJpLzUzNy4zNiBFZGdlLzE4LjE4MzYzfDE1Nzg3NDc4MTcyMTc1". UserAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363"
+[2020-03-24 16:37:50.192 +08:00] [INF] Available "decoders": ["h264", "h264_qsv", "h264_cuvid", "hevc", "hevc_qsv", "hevc_cuvid", "mpeg2video", "mpeg2_qsv", "vc1_qsv", "aac", "ac3", "mp3"]
+[2020-03-24 16:37:50.474 +08:00] [INF] Available "encoders": ["libx264", "h264_amf", "h264_nvenc", "h264_qsv", "libx265", "hevc_amf", "hevc_nvenc", "hevc_qsv", "mpeg4", "msmpeg4", "libvpx", "libvpx-vp9", "aac", "ac3", "libmp3lame", "libopus", "libvorbis", "srt"]
+[2020-03-24 16:37:50.495 +08:00] [INF] FFmpeg: Custom: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:37:50.497 +08:00] [INF] ServerId: "8f977a8ad8a14a83b6afb1eac926f965"
+[2020-03-24 16:37:51.393 +08:00] [INF] Executed all pre-startup entry points in 0:00:00.8704466
+[2020-03-24 16:37:51.395 +08:00] [INF] Core startup complete
+[2020-03-24 16:37:51.497 +08:00] [INF] Registering publisher for "urn:schemas-upnp-org:device:MediaServer:1" on "192.168.123.34"
+[2020-03-24 16:37:51.612 +08:00] [INF] Resetting user root folder path to "C:\Users\ak\AppData\Local\Jellyfin\root\default"
+[2020-03-24 16:37:52.065 +08:00] [INF] Watching directory D:\å½±è§†åº“\MOVIE
+[2020-03-24 16:37:52.065 +08:00] [INF] Watching directory D:\å½±è§†åº“\TV
+[2020-03-24 16:37:52.577 +08:00] [INF] "StartupTrigger" fired for task: "Update Plugins"
+[2020-03-24 16:37:52.582 +08:00] [INF] Queueing task "PluginUpdateTask"
+[2020-03-24 16:37:52.593 +08:00] [INF] Executing "Update Plugins"
+[2020-03-24 16:37:52.813 +08:00] [INF] Executed all post-startup entry points in 0:00:01.416697
+[2020-03-24 16:37:52.814 +08:00] [INF] Startup complete 0:00:09.1443925
+[2020-03-24 16:37:55.240 +08:00] [INF] "Update Plugins" Completed after 0 minute(s) and 2 seconds
+[2020-03-24 16:37:55.372 +08:00] [INF] ExecuteQueuedTasks
+[2020-03-24 16:37:57.042 +08:00] [INF] No matching device profile found. The default will need to be used.
+DeviceDescription:
+FriendlyName:ä¹æ’­æŠ•å±M4
+Manufacturer:LEBO
+ManufacturerUrl:http://www.hpplay.com.cn
+ModelDescription:Lebo Media Render
+ModelName:HappyCast
+ModelNumber:
+ModelUrl:http://www.hpplay.com.cn
+SerialNumber:
+
+[2020-03-24 16:37:57.098 +08:00] [INF] DLNA Session created for "ä¹æ’­æŠ•å±M4" - "HappyCast"
+[2020-03-24 16:38:02.712 +08:00] [INF] No matching device profile found. The default will need to be used.
+DeviceDescription:
+FriendlyName:å®¢åŽ…çš„å¥‡å¼‚æžœ(100)
+Manufacturer:Microsoft Corporation
+ManufacturerUrl:http://www.microsoft.com
+ModelDescription:TVGUO Media Renderer
+ModelName:Windows Media Player
+ModelNumber:
+ModelUrl:http://go.microsoft.com/fwlink/?LinkId=105927
+SerialNumber:
+
+[2020-03-24 16:38:02.729 +08:00] [INF] DLNA Session created for "å®¢åŽ…çš„å¥‡å¼‚æžœ(100)" - "Windows Media Player"
+[2020-03-24 16:38:03.721 +08:00] [ERR] HTTP request failed with message: ""
+[2020-03-24 16:38:03.725 +08:00] [ERR] Error updating device info for "å®¢åŽ…çš„å¥‡å¼‚æžœ(100)"
+MediaBrowser.Model.Net.HttpException: Bad Request
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.EnsureSuccessStatusCode(HttpResponseMessage response, HttpRequestOptions options)
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.SendAsyncInternal(HttpRequestOptions options, HttpMethod httpMethod)
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.SendAsync(HttpRequestOptions options, HttpMethod httpMethod)
+   at Emby.Dlna.PlayTo.SsdpHttpClient.GetDataAsync(String url, CancellationToken cancellationToken)
+   at Emby.Dlna.PlayTo.Device.GetAVProtocolAsync(CancellationToken cancellationToken)
+   at Emby.Dlna.PlayTo.Device.TimerCallback(Object sender)
+[2020-03-24 16:38:04.356 +08:00] [WRN] HTTP Response 200 to "192.168.123.38". Time (slow): 0:00:02.0777872. "http://192.168.123.34:8096/Persons?SortBy=SeriesName%2CSortName&SortOrder=Ascending&Filters=IsFavorite&Recursive=true&Fields=PrimaryImageAspectRatio%2CBasicSyncInfo&CollapseBoxSetItems=false&ExcludeLocationTypes=Virtual&EnableTotalRecordCount=false&Limit=20&userId=074203e108bf4ddab20da2f1c3ff7fcb"
+[2020-03-24 16:38:15.551 +08:00] [WRN] HTTP Response 200 to "192.168.123.38". Time (slow): 0:00:01.5607863. "http://192.168.123.34:8096/Persons?SortBy=SeriesName%2CSortName&SortOrder=Ascending&Filters=IsFavorite&Recursive=true&Fields=PrimaryImageAspectRatio%2CBasicSyncInfo&CollapseBoxSetItems=false&ExcludeLocationTypes=Virtual&EnableTotalRecordCount=false&Limit=20&userId=074203e108bf4ddab20da2f1c3ff7fcb"
+[2020-03-24 16:39:04.685 +08:00] [INF] Jellyfin version: "10.5.2"
+[2020-03-24 16:39:04.744 +08:00] [INF] Arguments: ["C:\Program Files\Jellyfin\Server\jellyfin.dll", "--noautorunwebapp", "--datadir", "C:\Users\ak\AppData\Local\Jellyfin"]
+[2020-03-24 16:39:04.762 +08:00] [INF] Operating system: "Windows"
+[2020-03-24 16:39:04.765 +08:00] [INF] Architecture: X64
+[2020-03-24 16:39:04.769 +08:00] [INF] 64-Bit Process: True
+[2020-03-24 16:39:04.771 +08:00] [INF] User Interactive: True
+[2020-03-24 16:39:04.773 +08:00] [INF] Processor count: 4
+[2020-03-24 16:39:04.775 +08:00] [INF] Program data path: "C:\Users\ak\AppData\Local\Jellyfin"
+[2020-03-24 16:39:04.777 +08:00] [INF] Web resources path: "C:\Program Files\Jellyfin\Server\jellyfin-web"
+[2020-03-24 16:39:04.778 +08:00] [INF] Application directory: "C:\Program Files\Jellyfin\Server\"
+[2020-03-24 16:39:05.773 +08:00] [INF] Setting cache path: "C:\Users\ak\AppData\Local\jellyfin\cache"
+[2020-03-24 16:39:05.860 +08:00] [INF] Loading assemblies
+[2020-03-24 16:39:09.257 +08:00] [INF] Kestrel listening on all interfaces
+[2020-03-24 16:39:09.605 +08:00] [INF] Running startup tasks
+[2020-03-24 16:39:09.640 +08:00] [INF] Daily trigger for "Extract Chapter Images" set to fire at 03/25/2020 02:00, which is 9:20:50.359678 from now.
+[2020-03-24 16:39:09.760 +08:00] [INF] WS "http://192.168.123.34:8096/socket?api_key=2f9852ec3dbf45fbb3fdc40ec982b987&deviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzcwLjAuMzUzOC4xMDIgU2FmYXJpLzUzNy4zNiBFZGdlLzE4LjE4MzYzfDE1Nzg3NDc4MTcyMTc1". UserAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363"
+[2020-03-24 16:39:10.059 +08:00] [INF] Found ffmpeg version "unknown"
+[2020-03-24 16:39:10.061 +08:00] [WRN] FFmpeg: Custom: Failed version check: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:39:10.329 +08:00] [INF] Available "decoders": ["h264", "h264_qsv", "h264_cuvid", "hevc", "hevc_qsv", "hevc_cuvid", "mpeg2video", "mpeg2_qsv", "vc1_qsv", "aac", "ac3", "mp3"]
+[2020-03-24 16:39:10.588 +08:00] [INF] Available "encoders": ["libx264", "h264_amf", "h264_nvenc", "h264_qsv", "libx265", "hevc_amf", "hevc_nvenc", "hevc_qsv", "mpeg4", "msmpeg4", "libvpx", "libvpx-vp9", "aac", "ac3", "libmp3lame", "libopus", "libvorbis", "srt"]
+[2020-03-24 16:39:10.602 +08:00] [INF] FFmpeg: Custom: "C:\Program Files\Jellyfin\Server\ffmpeg.exe"
+[2020-03-24 16:39:10.605 +08:00] [INF] ServerId: "8f977a8ad8a14a83b6afb1eac926f965"
+[2020-03-24 16:39:11.511 +08:00] [INF] Executed all pre-startup entry points in 0:00:00.8778174
+[2020-03-24 16:39:11.513 +08:00] [INF] Core startup complete
+[2020-03-24 16:39:11.618 +08:00] [INF] Registering publisher for "urn:schemas-upnp-org:device:MediaServer:1" on "192.168.123.34"
+[2020-03-24 16:39:11.715 +08:00] [INF] Resetting user root folder path to "C:\Users\ak\AppData\Local\Jellyfin\root\default"
+[2020-03-24 16:39:12.160 +08:00] [INF] Watching directory D:\å½±è§†åº“\TV
+[2020-03-24 16:39:12.160 +08:00] [INF] Watching directory D:\å½±è§†åº“\MOVIE
+[2020-03-24 16:39:12.772 +08:00] [INF] "StartupTrigger" fired for task: "Update Plugins"
+[2020-03-24 16:39:12.778 +08:00] [INF] Queueing task "PluginUpdateTask"
+[2020-03-24 16:39:12.789 +08:00] [INF] Executing "Update Plugins"
+[2020-03-24 16:39:12.893 +08:00] [INF] Executed all post-startup entry points in 0:00:01.3784072
+[2020-03-24 16:39:12.895 +08:00] [INF] Startup complete 0:00:08.8245905
+[2020-03-24 16:39:12.946 +08:00] [INF] "Update Plugins" Completed after 0 minute(s) and 0 seconds
+[2020-03-24 16:39:13.093 +08:00] [INF] ExecuteQueuedTasks
+[2020-03-24 16:39:17.119 +08:00] [INF] No matching device profile found. The default will need to be used.
+DeviceDescription:
+FriendlyName:ä¹æ’­æŠ•å±M4
+Manufacturer:LEBO
+ManufacturerUrl:http://www.hpplay.com.cn
+ModelDescription:Lebo Media Render
+ModelName:HappyCast
+ModelNumber:
+ModelUrl:http://www.hpplay.com.cn
+SerialNumber:
+
+[2020-03-24 16:39:17.176 +08:00] [INF] DLNA Session created for "ä¹æ’­æŠ•å±M4" - "HappyCast"
+[2020-03-24 16:39:24.103 +08:00] [INF] No matching device profile found. The default will need to be used.
+DeviceDescription:
+FriendlyName:å®¢åŽ…çš„å¥‡å¼‚æžœ(100)
+Manufacturer:Microsoft Corporation
+ManufacturerUrl:http://www.microsoft.com
+ModelDescription:TVGUO Media Renderer
+ModelName:Windows Media Player
+ModelNumber:
+ModelUrl:http://go.microsoft.com/fwlink/?LinkId=105927
+SerialNumber:
+
+[2020-03-24 16:39:24.109 +08:00] [INF] DLNA Session created for "å®¢åŽ…çš„å¥‡å¼‚æžœ(100)" - "Windows Media Player"
+[2020-03-24 16:39:25.118 +08:00] [ERR] HTTP request failed with message: ""
+[2020-03-24 16:39:25.123 +08:00] [ERR] Error updating device info for "å®¢åŽ…çš„å¥‡å¼‚æžœ(100)"
+MediaBrowser.Model.Net.HttpException: Bad Request
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.EnsureSuccessStatusCode(HttpResponseMessage response, HttpRequestOptions options)
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.SendAsyncInternal(HttpRequestOptions options, HttpMethod httpMethod)
+   at Emby.Server.Implementations.HttpClientManager.HttpClientManager.SendAsync(HttpRequestOptions options, HttpMethod httpMethod)
+   at Emby.Dlna.PlayTo.SsdpHttpClient.GetDataAsync(String url, CancellationToken cancellationToken)
+   at Emby.Dlna.PlayTo.Device.GetAVProtocolAsync(CancellationToken cancellationToken)
+   at Emby.Dlna.PlayTo.Device.TimerCallback(Object sender)
+[2020-03-24 16:39:31.578 +08:00] [WRN] HTTP Response 200 to "192.168.123.38". Time (slow): 0:00:01.864505. "http://192.168.123.34:8096/Persons?SortBy=SeriesName%2CSortName&SortOrder=Ascending&Filters=IsFavorite&Recursive=true&Fields=PrimaryImageAspectRatio%2CBasicSyncInfo&CollapseBoxSetItems=false&ExcludeLocationTypes=Virtual&EnableTotalRecordCount=false&Limit=20&userId=074203e108bf4ddab20da2f1c3ff7fcb"
+[2020-03-24 16:40:02.831 +08:00] [INF] WS "http://192.168.123.34:8096/socket?api_key=2f9852ec3dbf45fbb3fdc40ec982b987&deviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzcwLjAuMzUzOC4xMDIgU2FmYXJpLzUzNy4zNiBFZGdlLzE4LjE4MzYzfDE1Nzg3NDc4MTcyMTc1". UserAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18363"
+[2020-03-24 16:40:33.388 +08:00] [INF] Disposing PlayToManager
+[2020-03-24 16:47:07.769 +08:00] [WRN] HTTP Response 200 to "192.168.123.38". Time (slow): 0:00:01.4784613. "http://192.168.123.34:8096/Persons?SortBy=SeriesName%2CSortName&SortOrder=Ascending&Filters=IsFavorite&Recursive=true&Fields=PrimaryImageAspectRatio%2CBasicSyncInfo&CollapseBoxSetItems=false&ExcludeLocationTypes=Virtual&EnableTotalRecordCount=false&Limit=20&userId=074203e108bf4ddab20da2f1c3ff7fcb"
